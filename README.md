@@ -1,7 +1,7 @@
 # Vacation calculation system interface Mercadolibre
 </br>
 
-![https://github.com/dimagutierrez](https://raw.githubusercontent.com/DimaGutierrez/Mercadolibre/images/main/java_mercado.png)
+![https://github.com/dimagutierrez](https://raw.githubusercontent.com/DimaGutierrez/Mercadolibre/images/java_mercado.png)
 </br>
 ## Settings
 This app does need a settings file to run - see `Sistema.jar` file and the `images` folder.
