@@ -8,6 +8,8 @@ This app does need a settings file to run - see `Sistema.jar` file and the `imag
 </br></br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
+#Background Color Swap Menu:Amarillo/Blanco/Gris
+
 ## Portfolio:
 [![Wix](https://img.shields.io/badge/wix🔥🔥🔥-DIMA>>JOBBOX-FA7343?style=for-the-badge&logo=Wix&logoColor=white&labelColor=101010)](https://diegosurf.wixsite.com/diegorgutierrez)
 
