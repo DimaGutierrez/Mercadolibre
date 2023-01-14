@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Diego Gutierrez
+Main-Class: Bienvenida
+X-COMMENT: Proyecto curricular
