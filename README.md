@@ -20,4 +20,4 @@ This applies to the main section of the class /Principal.class
 ## Contacto:
 [![Email](https://img.shields.io/badge/diegorgutierrez@live.com.ar-email_personal-FA7343?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](mailto:diegorgutierrez@live.com.ar)
 </br>
-sdf
+
