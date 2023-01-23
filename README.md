@@ -6,8 +6,6 @@
 ## Settings
 This app does need a settings file to run - see `Sistema.jar` file and the `images` folder.
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-
 ## Background Color Swap Menu: Amarillo/Blanco/Gris
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Mercadolibre/blob/main/img/backgrounds.jpg)
 <br> </br>
@@ -19,6 +17,7 @@ This applies to the principal section of the class /Principal.class
 <br> </br>
 Finally, if you accept, you will enter the interface where you can make a calculation according to the needs of the company `Principal.class`
 <br> </br>
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 ## Portfolio:
 [![Wix](https://img.shields.io/badge/wix🔥🔥🔥-DIMA>>JOBBOX-FA7343?style=for-the-badge&logo=Wix&logoColor=white&labelColor=101010)](https://diegosurf.wixsite.com/diegorgutierrez)
