@@ -17,9 +17,7 @@ This applies to the principal section of the class /Principal.class
 ## Dynamics / Behavior
 `Bienvenida.class` screen, here you can log in, then access permissions by accepting license `Licencia.class` and being able to reject and return to the beginning. Finally, if you accept, you will enter the interface where you can make a calculation according to the needs of the company `Principal.class`
 <br> </br>
-```
-</>
-```
+
 ## Portfolio:
 [![Wix](https://img.shields.io/badge/wix🔥🔥🔥-DIMA>>JOBBOX-FA7343?style=for-the-badge&logo=Wix&logoColor=white&labelColor=101010)](https://diegosurf.wixsite.com/diegorgutierrez)
 
