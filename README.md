@@ -16,8 +16,8 @@ This applies to the principal section of the class /Principal.class
 `Bienvenida.class` screen, here you can log in, then access permissions by accepting license `Licencia.class` and being able to reject and return to the beginning. 
 <br></br>
 Finally, if you accept, you will enter the interface where you can make a calculation according to the needs of the company `Principal.class`
-<br> </br>
-<br> </br>
+<br></br>
+<br></br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 
