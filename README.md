@@ -8,7 +8,7 @@ This app does need a settings file to run - see `Sistema.jar` file and the `imag
 
 ## Background Color Swap Menu: Amarillo/Blanco/Gris
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Mercadolibre/blob/main/img/backgrounds.jpg)
-<br></br>
+<br> </br>
 ```shell
 This applies to the principal section of the class /Principal.class
 ```
